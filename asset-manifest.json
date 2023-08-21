@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/milliondollors/static/css/main.fa4071bd.css",
+    "main.js": "/milliondollors/static/js/main.5546a424.js",
+    "static/js/787.cda612ba.chunk.js": "/milliondollors/static/js/787.cda612ba.chunk.js",
+    "index.html": "/milliondollors/index.html",
+    "main.fa4071bd.css.map": "/milliondollors/static/css/main.fa4071bd.css.map",
+    "main.5546a424.js.map": "/milliondollors/static/js/main.5546a424.js.map",
+    "787.cda612ba.chunk.js.map": "/milliondollors/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4071bd.css",
+    "static/js/main.5546a424.js"
+  ]
+}
